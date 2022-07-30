@@ -332,7 +332,7 @@ section .title::after {
 .projects .title::after,
 .project .title::after {
     background: #111;
-    content: "what i provide";
+    content: "what i have done";
 }
 
 .projects .serv-content .card {
